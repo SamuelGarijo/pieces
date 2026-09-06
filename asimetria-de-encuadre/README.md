@@ -10,7 +10,7 @@ piece run through the engine, by hand, to learn what the skills must do.
 | Step | State | Where |
 |---|---|---|
 | 1 Archive extraction | **done** 2026-09-06; sources verified against primaries same day | `01-fragments/`, `01-fragments/verification-2026-09-06.md` |
-| 2 Strategy | decisions 1, 3, 4 taken 2026-09-06; decision 2 (protagonist) pending essay-structure research | `02-strategy.md` |
+| 2 Strategy | **done** 2026-09-06 — four decisions settled; carrier = the BBC as a case, genre = coverage-pattern | `02-strategy.md` |
 | 3 Message (mode, order) | — | `03-script.md` |
 | 4 Visual rhetoric | — | `03-script.md` |
 | 5 Forge | — | `03-script.md` |

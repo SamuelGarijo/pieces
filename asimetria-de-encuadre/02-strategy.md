@@ -1,8 +1,8 @@
 # Step 2 — strategy (and step 7's owned-land questions), drafted 2026-09-06
 
 Method: `content-creation-engine/references/strategy-checklist.md`. Yes/no per question;
-more than two *no*s and the piece is a thought piece. **Decisions 1, 3 and 4 taken by Samuel
-2026-09-06; decision 2 (the protagonist) open pending a research pass on essay structure.**
+more than two *no*s and the piece is a thought piece. **All four decisions settled 2026-09-06;
+decision 2 resolved by the essay-form research (`references/essay-form.md`).**
 
 ## Golden — engagement
 
@@ -11,7 +11,7 @@ more than two *no*s and the piece is a thought piece. **Decisions 1, 3 and 4 tak
 | Is the place this piece sends people to ready to receive them? | **no, yet** | **Hub = samuel-garijo.com, directly (decision 3, 2026-09-06)** — owned land; Medium becomes a spoke for the tech-intellectual audience. Not a subdomain: links and search authority accrue to the domain, and a subdomain is treated as a separate site; a path keeps it (Odden via Pulizzi: "links send traffic and increase search visibility"). The site runs on WordPress (Semplice), so a post is native. Hub-readiness = the annotated page exists on the site before anything ships. |
 | Is the caption free of raw links; hub link in the first comment? | yes | Rule adopted; applies to the spokes (the ephemeral socials), where the first comment points to Medium. |
 | Does the audience that will see it first exist, and is it the one the piece mirrors? | **decided, with a gap** | **Receptors (decision 1, Samuel 2026-09-06):** a broad, internet-native, critically minded public — the piece mirrors *them*; plus the design peers who follow him on LinkedIn; primary channels the website and Medium ("un sector intelectual dentro del mundo tech"), not LinkedIn. **The gap Golden's rule exposes:** the population that already follows (peers, LinkedIn) is not the population the piece mirrors (the broad critical public on the web). The first viewers will be the peers; the mirrored public arrives only by reflection or search. Consequence: the piece must work for the peers *as a piece of craft* (the mechanism shown well) so they carry it — which is exactly the third-circle test. The LinkedIn spoke is the flashlight; the website is the mirror. |
-| Story-driven *and* value-driven — never a bare thought piece? | **open — research running** | Samuel (2026-09-06): the protagonist requirement may be a bias of the handbook's narrative sources; an essay may not need one. (b) the reader reads naive; (c) the archivist reads abstract, fable-like; (a) the newsroom is the most interesting because it can be *realistic* — and F04's verification makes it concrete: the BBC, London, guidance vs pages. **A research pass on essay structure is running** (Chatman's *Coming to Terms* on argument as a text-type; Sternberg's narrativity-as-function; Lukács, Adorno, Lopate on the essay's engine; McPhee, Hart on structure without character; Herman & Chomsky's "worthy and unworthy victims" as a model of a coverage-pattern piece). Decision 2 waits for it. Working hypothesis, to be tested against the sources: an essay's protagonist can be a *case* (the BBC), a *concept*, an *object followed* (the tag), a *question*, or the *reasoning mind* — and Sternberg's three interests may operate without a character at all. |
+| Story-driven *and* value-driven — never a bare thought piece? | **yes — resolved (decision 2)** | Samuel (2026-09-06): the protagonist requirement may be a bias of the handbook's narrative sources; an essay may not need one. (b) the reader reads naive; (c) the archivist reads abstract, fable-like; (a) the newsroom is the most interesting because it can be *realistic* — and F04's verification makes it concrete: the BBC, London, guidance vs pages. **A research pass on essay structure is running** (Chatman's *Coming to Terms* on argument as a text-type; Sternberg's narrativity-as-function; Lukács, Adorno, Lopate on the essay's engine; McPhee, Hart on structure without character; Herman & Chomsky's "worthy and unworthy victims" as a model of a coverage-pattern piece). Decision 2 waits for it. Working hypothesis, to be tested against the sources: an essay's protagonist can be a *case* (the BBC), a *concept*, an *object followed* (the tag), a *question*, or the *reasoning mind* — and Sternberg's three interests may operate without a character at all. |
 | Built for the thumb — caption ≤3 lines/paragraph, one idea per sentence? | yes | Enforced at step 5. The draft's prose is long-form; the carousel captions are cut from it, the long form goes to the hub. |
 | If it offers something, is the answer ready? | **no, yet** | Same as hub-readiness: the annotated page with the sources is the "offer". |
 | Relevant to the people around the decision-maker, not the executive? | yes | There is no buyer here; the receptors are peers and readers. Passes by construction. |
@@ -28,6 +28,46 @@ more than two *no*s and the piece is a thought piece. **Decisions 1, 3 and 4 tak
 | Every claim grounded — survives being called out? | **yes, after the verification pass** | 2026-09-06: F01 ✅ (combined CNN+MSNBC), F03 ✅ (8 pages, raw footage), F04 ✅ (BBC alone, attribution caveat), F05 ✅ (the tag: 1,155 vs 119), F06 ✅; F02 ◐ mechanism only, one-sided 77% citable. Every summary figure needed correction; the primaries are in `01-fragments/verification-2026-09-06.md`. F08's quotes (third-party) still to verify before the one contagion sentence. |
 | Definitive version on owned land? | **yes (decision 3)** | samuel-garijo.com, directly. Owned. Medium republishes (canonical link back to the site — Medium supports it; set it so the site keeps search authority). `05-annotated.md` in this repo remains the source of the site page. |
 | Is the platform version a bridge back — full piece on the spoke, annotated at home? | yes | Carousel = full discourse on the spokes; Medium = the annotated story with sources and open doors; first comment = the bridge. |
+
+## Decision 2 — the carrier, resolved (2026-09-06)
+
+Samuel's objection held: the handbook's protagonist requirement was a bias of its
+narrative sources. The research (`content-creation-engine/references/essay-form.md`)
+found that every source locates a *carrier* of motion but none requires a character, and
+that Sternberg's three interests operate on any arrangement of signs. The three
+candidates re-read in that light:
+
+- **(c) the archivist** — a `mind`/`case` fable. Samuel: too abstract. The research agrees:
+  the essay theorists' *mind* is realized in the caption's judging voice, not in a
+  character who stands for the author. Dropped as protagonist; kept as the one overt
+  beat.
+- **(b) the reader** — Samuel: naive. It survives as the `engine-question`'s addressee and
+  the `discussion-hook` ("¿qué frase sin sujeto has leído hoy?"), not as a character.
+- **(a) the newsroom** — Samuel: the most interesting, because realistic. The genre
+  research says why: the coverage-pattern piece's carrier is always **the matched pair**,
+  and the pair needs a *site* where two like things are treated unlike. The BBC is that
+  site — verified: same newsroom, same year, "killed" 1,167/1,163 and "died" 50/7 (CfMM),
+  the tag on 1,155 articles vs 119 without (CfMM), "terrorist" 560 vs "militant" 488
+  against its own guidance (El Masry et al.). **(a) wins, as a `case`, not as a person.**
+
+**Piece-level fields, now set:**
+
+- `carrier: case` (the BBC as the site of matched pairs) + `mind` secondary (one
+  `narration-overt` beat, at the rupture — F01, the author against his own number).
+- `genre: coverage-pattern` — H&C skeleton: the law → the pair → the count and ratio →
+  the exemplars → the rivals → the mechanism.
+- `engine-question`: *¿Cómo hace una redacción para tratar de forma distinta a dos muertos
+  sin decidirlo nunca?* — a *how*, because the claim is stated first.
+- `register: explanatory`, leaning to the middle (Keathley): one poetic frame allowed —
+  the `beat` — for Woolf's spell.
+- `organizing-principle: pair`.
+- `disclosure: known`; `mode: curiosity`; `rupture` at F01.
+- `alegoria`: **none** — with `carrier: case` the piece is literal; its second reading (the
+  reader's own feed) is carried by the `discussion-hook`, not by allegory.
+- `not-shown`: victims (draft §8); the author; and — new — **no BBC faces either**: the
+  case is an institution, shown by its objects and its sentences (`metonimia-soporte`,
+  `elipsis-iconica`). Fairness note for Act V (the rivals): CNN runs the terminology the
+  other way; the piece says so.
 
 ## Scope — decision 4, answered by the Perplexity conversation itself
 
@@ -71,9 +111,7 @@ as a map to primaries; its numbers are not used without re-anchoring.
   van Vliet: saying it first costs nothing.
 - `rupture` candidate: F01 (the piece undercuts its own headline number) — or F04 if it
   verifies.
-- `alegoria`: **depends on decision 2.** With (c) it would be closed allegory (archivist →
-  newsroom). With (a) the newsroom is the literal subject and the second reading is the
-  reader's own consumption — still a double reading, differently anchored. Held.
+- `alegoria`: none (see decision 2).
 - `discussion-hook`: as above.
 - `not-shown`: victims' faces and bodies (draft §8 — the constraint, not a choice); the
   archivist's face (elided author).
