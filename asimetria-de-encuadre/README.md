@@ -11,9 +11,9 @@ piece run through the engine, by hand, to learn what the skills must do.
 |---|---|---|
 | 1 Archive extraction | **done** 2026-09-06; sources verified against primaries same day | `01-fragments/`, `01-fragments/verification-2026-09-06.md` |
 | 2 Strategy | **done** 2026-09-06 — four decisions settled; carrier = the BBC as a case, genre = coverage-pattern | `02-strategy.md` |
-| 3 Message (mode, order) | — | `03-script.md` |
-| 4 Visual rhetoric | — | `03-script.md` |
-| 5 Forge | — | `03-script.md` |
+| 3 Message (mode, order) | **v1** 2026-09-06 | `03-script.md` |
+| 4 Visual rhetoric | **v1** 2026-09-06 — roles, transitions, figures, the tag as the only colour | `03-script.md` |
+| 5 Forge | **v1** 2026-09-06 — ten beats, captions drafted, three pacing checks (closure budget over: first calibration case) | `03-script.md` |
 | 6 Brief + references | — | `04-brief.md` |
 | 7 Publish | blocked on hub page | `05-annotated.md` |
 

@@ -27,4 +27,4 @@ version in this repo is the source of the site page. Templates: Figma file *stor
 
 | Piece | Status | Started |
 |---|---|---|
-| [asimetria-de-encuadre](asimetria-de-encuadre/) | steps 1–2 done; step 3 next | 2026-09-06 |
+| [asimetria-de-encuadre](asimetria-de-encuadre/) | steps 1–5 v1; step 6 (the brief) next | 2026-09-06 |
