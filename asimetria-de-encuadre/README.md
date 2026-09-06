@@ -3,14 +3,14 @@
 **Piece:** media bias as a justification mechanism; Ukraine and Gaza as cases. The first
 piece run through the engine, by hand, to learn what the skills must do.
 
-**Hub:** Medium. **Spokes:** ephemeral social. **Templates:** Figma *storytelling-workbench*.
+**Hub:** samuel-garijo.com, directly (owned). **Spokes:** Medium (with canonical link back), LinkedIn (peers), ephemeral socials. **Templates:** Figma *storytelling-workbench*.
 
 ## Status
 
 | Step | State | Where |
 |---|---|---|
 | 1 Archive extraction | **done** 2026-09-06; sources verified against primaries same day | `01-fragments/`, `01-fragments/verification-2026-09-06.md` |
-| 2 Strategy | drafted, 3 decisions pending | `02-strategy.md` |
+| 2 Strategy | decisions 1, 3, 4 taken 2026-09-06; decision 2 (protagonist) pending essay-structure research | `02-strategy.md` |
 | 3 Message (mode, order) | — | `03-script.md` |
 | 4 Visual rhetoric | — | `03-script.md` |
 | 5 Forge | — | `03-script.md` |
@@ -27,6 +27,9 @@ piece run through the engine, by hand, to learn what the skills must do.
   for Palestine, Bandura). **Secondary until each figure is verified against its primary**
   — the draft's own standard, which caught two errors in a previous synthesis (Slovic not
   Kahneman; UCLA is a study design, not findings).
+- `00-sources/perplexity-conversation-2026-09.md` — the full 17-turn Perplexity conversation the
+  summary was condensed from. Provenance and the record of Samuel's own arc (C → B); its
+  numbers are leads, not sources.
 - mymind: not queried this run (no MCP in this session). The draft already checked it:
   "tu archivo no sirve para esto" — a design-reference archive, nothing on conflict or
   press. One usable item: *10 Public Domain Libraries for Creatives*

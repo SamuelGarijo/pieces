@@ -20,8 +20,9 @@ Each piece is a folder that follows the pipeline's seven steps:
 Language: method files in English (the engine's convention); the piece's own text, its
 quotes and its sources in their original language.
 
-Hub: Medium (`@samuelgarijocortes`) — leased land in Pulizzi's terms; the annotated
-version in this repo is the owned copy. Templates: Figma file *storytelling-workbench*
+Hub: samuel-garijo.com, directly (owned land). Medium (`@samuelgarijocortes`) republishes
+with a canonical link back; LinkedIn and ephemeral socials are spokes. The annotated
+version in this repo is the source of the site page. Templates: Figma file *storytelling-workbench*
 (`mbsChZa04NS7DRpk3CkY2V`).
 
 | Piece | Status | Started |
