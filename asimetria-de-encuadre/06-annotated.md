@@ -1,10 +1,11 @@
 # La frase sin sujeto
 
-**Borrador v1 — 2026-09-06.** Texto completo sin imágenes. Registro: alguien que explica,
+**Borrador v2 — 2026-09-06.** El Donbás pasa de premisa (v1) a cuarto par, "el calendario",
+con los recuentos de contexto del CfMM, OCHA y OHCHR que Samuel verificó vía Perplexity. Texto completo sin imágenes. Registro: alguien que explica,
 no alguien que acusa. Las imágenes (step 6) pueden enriquecer o cambiar cómo se explica cada
 paso; el hilo argumental está entero. Cada cifra tiene su fuente al final y su matiz en el
 texto. Fuente del texto: `01-fragments/` (verificados) y `00-sources/draft-2026-08-27.md`
-(la voz). Método: `03-script.md`, los diez pasos en el mismo orden.
+(la voz). Método: `03-script.md`, los once pasos en el mismo orden.
 
 ---
 
@@ -24,23 +25,11 @@ Porque la pregunta interesante no es si la cobertura es desigual — casi todo e
 sospecha que sí, y con eso no se aprende nada nuevo. La pregunta es otra: **¿cómo hace una
 redacción para tratar de forma distinta a dos muertos sin que nadie, en ningún momento, haya
 tomado esa decisión?** No hay una reunión donde se acuerde. No hace falta. El mecanismo está
-en cosas más pequeñas: en un verbo, en un adjetivo, en un formulario. Y lo bueno de que esté
+en cosas más pequeñas: en un verbo, en un adjetivo, en un formulario, en un calendario. Y lo bueno de que esté
 en cosas pequeñas es que se pueden enseñar. Cuando termines de leer esto vas a verlas en tu
 propio feed. Ese es el objetivo.
 
-### Un paso atrás, para fijar la premisa
-
-Antes de entrar, retrocedamos ocho años. Entre 2014 y 2022 hubo una guerra en el este de
-Ucrania, en el Donbás. Según el recuento de Naciones Unidas murieron unas 14.000 personas.
-Casi nadie con quien hablo sabe que ocurrió. Esto último no es un dato, es una observación
-mía, y la doy como tal.
-
-La traigo por una sola razón: demuestra que el tamaño de una tragedia y su presencia en la
-conversación pública son dos variables independientes. Pueden ir juntas o no. Eso es todo lo
-que necesito del Donbás, y aquí lo dejo — este texto no va de lo que no se cuenta, que es un
-problema distinto con causas distintas. Va de **cómo se cuenta lo que sí se cuenta.**
-
-### Una redacción, un año, tres pares
+### Una redacción, un año, cuatro pares
 
 Para ver un mecanismo hace falta un sitio donde la misma redacción trate dos cosas parecidas
 en el mismo periodo. Si comparas medios distintos o años distintos, siempre hay una
@@ -50,7 +39,7 @@ Voy a usar la BBC. No porque sea la peor — no lo sé, y no es la pregunta — 
 más estudiada y porque tiene una guía editorial pública contra la que comparar lo que
 publica. El Centre for Media Monitoring analizó su cobertura online y en antena durante un
 año exacto, del 7 de octubre de 2023 al 6 de octubre de 2024: 3.873 artículos y 32.092
-fragmentos de emisión. De ahí salen tres pares.
+fragmentos de emisión. De ahí salen cuatro pares.
 
 **El primer par es un verbo.** En ese año, la palabra *killed* — "matados" — apareció 1.167
 veces para muertos palestinos y 1.163 para muertos israelíes. Casi la misma cifra. Fíjate en
@@ -99,6 +88,37 @@ cuál de las dos palabras acaba en la página más veces, a pesar de lo que dice
 para que quede claro que esto no es "la prensa", sino una redacción medida: en el mismo
 estudio, CNN hizo lo contrario — 1.242 *terrorist* frente a 1.583 *militant*. Cada casa tiene
 su gramática. Lo que se puede demostrar es que la gramática existe.
+
+**El cuarto par es un calendario.** Toda cobertura de una guerra tiene un día uno, y lo que
+hay antes del día uno no forma parte de la historia. En el mismo año de la BBC, el 7 de
+octubre aparece como referencia en al menos el 40 % de los artículos online. Algún contexto
+anterior a ese día — cualquiera — aparece en el 0,5 %. La palabra *ocupación*, al dar
+contexto al 7 de octubre, en 14 artículos; *bloqueo*, en 3; *asentamientos*, en 1. Las
+muertes palestinas anteriores al 7 de octubre, como contexto, en un artículo. Uno, entre casi
+cuatro mil.
+
+Y lo que había antes del día uno no es poco. Según OCHA — la misma agencia de la ONU que
+cuenta las víctimas en Ucrania — entre 2008 y el 6 de octubre de 2023 murieron 5.360
+palestinos en Gaza y unos 300 israelíes. Quince años que caben en un artículo.
+
+Aquí es donde entra Ucrania, y no como acusación. La guerra de 2022 también tenía una
+prehistoria: ocho años de guerra en el Donbás, de 2014 a 2021, con entre 14.200 y 14.400
+muertos, 3.405 de ellos civiles, según la misma ONU. ¿Se contó? Seamos exactos: no existe
+ningún recuento de cuántas veces la cobertura de 2022 mencionó el Donbás. Es un hueco en la
+literatura, no un dato oculto. Lo más cercano que hay es un estudio de la Universidad de
+Zúrich sobre la prensa suiza: la invasión se cubrió con un grado de contextualización del
+25 %, frente al 14 % habitual — *más* contexto del normal. No es el mismo método que el
+recuento de la BBC, y lo doy como aproximación, no como equivalencia. Pero apunta en una
+dirección clara: **a una guerra se le cuentan sus ocho años anteriores; la otra empieza el
+día en que atacó el otro.**
+
+Fíjate en que aquí no hace falta decidir quién tenía razón en 2014 ni en 2007. No hace falta
+la palabra *provocación*, que obliga a adjudicar causas. Solo hace falta mirar dónde empieza
+el reloj. Y como con los otros tres pares, nadie tuvo que decidirlo — salvo en un sitio donde
+sí quedó escrito: en abril de 2024 se filtró una nota interna del *New York Times* que pedía
+a sus redactores evitar *territorio ocupado*, *campos de refugiados* y, salvo casos muy raros,
+*Palestina*. No es la BBC. Es la única redacción donde la regla del calendario apareció por
+escrito.
 
 ### El número, y su trampa
 
@@ -160,7 +180,9 @@ cobertura de forma legítima, y explica parte de la diferencia. No toda — no e
 adjetivo va en una sola dirección — pero sí parte.
 
 Y la advertencia, que es la más importante: **el objeto de este texto son las redacciones, no
-las víctimas.** Ninguna cifra de las que he dado valida ni invalida la causa de nadie. Si al
+las víctimas.** Ninguna cifra de las que he dado valida ni invalida la causa de nadie. Y mencionar lo que
+hubo antes del día uno no justifica lo que pasó el día uno: la pieza mide dónde empieza el
+relato, no quién tenía derecho a empezarlo. Si al
 leerlo te ha parecido un ranking de dolor, lo he escrito mal, y prefiero que me lo digas.
 
 ### Por qué pasa, sin conspiraciones
@@ -178,8 +200,8 @@ producen exactamente lo que hemos medido.
 
 Termino donde empecé, pero más cerca.
 
-Un verbo sin agente. Un adjetivo en una sola dirección. Un formulario de ocho páginas. Son
-tres cosas muy pequeñas y ninguna es una mentira. Juntas deciden cuánta humanidad le toca a
+Un verbo sin agente. Un adjetivo en una sola dirección. Un formulario de ocho páginas. Un
+calendario que empieza el día uno. Son cuatro cosas muy pequeñas y ninguna es una mentira. Juntas deciden cuánta humanidad le toca a
 un muerto en la página, y lo deciden sin que nadie lo decida.
 
 Lo bueno de que sean pequeñas es que ahora las conoces. La próxima vez que leas *"murieron
@@ -199,12 +221,29 @@ dice.
   Othman Ali, *The Nation*, 14 oct 2024. CNN y MSNBC **combinadas**; ventanas 25 feb–3 jun
   2022 y 7 oct 2023–14 ene 2024; archivo GDELT.
   https://www.thenation.com/article/society/cnn-msnbc-gaza-media-bias-study/
-- **Donbás 2014–2022, ~14.000 muertos.** OHCHR / Misión de Vigilancia de Derechos Humanos en
-  Ucrania. "Casi nadie lo sabe" es observación del autor.
 - **BBC, un año: *killed* 1.167 / 1.163; *died* 50 / 7; *Hamas-run health ministry* 1.155
   artículos frente a 119.** Centre for Media Monitoring, *BBC on Gaza-Israel: One Story,
   Double Standards*, 16 jun 2025 (3.873 artículos, 32.092 fragmentos, 7 oct 2023–6 oct 2024).
   https://cfmm.org.uk/bbc-on-gaza-israel-one-story-double-standards/
+- **El calendario, BBC, mismo año: 7 de octubre en ≥40 % de los artículos online; contexto
+  anterior en 0,5 %; "ocupación" 14 artículos (0,3 %), "bloqueo" 3, "asentamientos" 1; muertes
+  palestinas previas como contexto, 1 artículo. Radio/TV: "ocupación" 33 clips de 23.618.**
+  CfMM, mismo informe (PDF: https://cfmm.org.uk/wp-content/uploads/2025/06/CfMM-report-2023-24-ePDF-Edited.pdf).
+- **Antes del día uno en Gaza: 5.360 palestinos muertos en Gaza, 2008–6 oct 2023 (6.412 en
+  total en los territorios); ~300 israelíes.** OCHA oPt, *Data on Casualties*.
+  https://www.ochaopt.org/data/casualties
+- **Antes del día uno en Ucrania: Donbás 2014–2021, 14.200–14.400 muertos (≥3.404 civiles,
+  ~4.400 fuerzas ucranianas, ~6.500 grupos armados), corte 31 dic 2021.** OHCHR, ficha
+  *Conflict-related civilian casualties in Ukraine*, 27 ene 2022. **3.405 civiles** (3.107 +
+  298 del MH17) a 31 ene 2022: OHCHR, 33.º informe periódico, §31.
+  https://www.ohchr.org/sites/default/files/2022-03/33rdReportUkraine-en.pdf
+- **Contextualización de la cobertura de Ucrania, 25 % frente al 14 % de referencia (prensa
+  suiza).** fög, Universidad de Zúrich, *Jahrbuch* 2022, estudio Ucrania. Método distinto al
+  recuento del CfMM; se cita como aproximación.
+  https://www.foeg.uzh.ch/dam/jcr:102a0564-ea4e-4bb8-8d54-21932d7e921b/JB_2022_Ukraine_Studie_EN_20221207.pdf
+- **Nota interna del *New York Times* (evitar "territorio ocupado", "campos de refugiados",
+  "Palestina").** The Intercept, 15 abr 2024.
+  https://theintercept.com/2024/04/15/nyt-israel-gaza-genocide-palestine-coverage/
 - **Voz pasiva, BBC 77 % (solo víctimas palestinas; Israel nombrado como autor en el 50 %).**
   NewsCord, análisis de prensa británica, abr 2026 (686 artículos; codificación por LLM — se
   cita con esa limitación). https://newscord.org/uk-analysis
@@ -231,5 +270,8 @@ dice.
   como una frase en "El formulario".
 - Prensa en español: ¿escriben RTVE o El País "controlado por Hamás"? Un ejemplo en castellano
   haría la etiqueta del lector.
-- ¿Hay una encuesta de recuerdo del Donbás en España o la UE que convierta "casi nadie lo
-  sabe" en un número?
+- No existe un recuento de menciones del Donbás en la cobertura de 2022 (Samuel, Perplexity,
+  2026-09-06: hueco en la literatura). Si alguien lo hace, el cuarto par queda emparejado del
+  todo con el mismo método.
+- La *lectura* del Donbás — agresión rusa desde 2014, o conflicto disputado — es otra pieza (la
+  "C" de la conversación), no esta. Esta solo mide dónde empieza el relato.
