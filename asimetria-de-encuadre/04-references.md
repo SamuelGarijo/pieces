@@ -304,6 +304,88 @@ stays short.
 > (`figure:repeticion`, `figure:elipsis`, `figure:metonimia`). Then tell me which object
 > repeated across the hits.
 
+**Frame 1 candidate (Samuel, 2026-09-06):** Isotype, *University Students and Population
+aged 20-23* (Isotype Institute, 1932 data) — the same frame repeated, quantity as units, one
+side almost empty. Antithesis and `hiperbole-escala` in one image. Saved as the working
+reference for frame 1; it also serves frame 6.
+
+## Prompt 2 — `elipsis` (§3.5) · frames 2, 3, 10
+
+> **Search my mymind for `elipsis`** (Retórica de la pintura §3.5).
+>
+> I want images where something has been removed and its absence is the subject: a sentence
+> with a word cut out; a document with a blank or a redaction; the outline, shadow or imprint
+> of an object no longer there; a series with one slot empty; an object shown with no ground
+> — no wall, no floor — floating out of context. The viewer should feel pushed to fill the
+> gap.
+>
+> Not damage or decay; not minimalism for its own sake. No faces, no photographs of victims.
+>
+> Tag keepers `figure:elipsis` + `piece:asimetria-de-encuadre` (add `figure:elipsis-fondo`
+> when it is the ground that is missing), one line each on what it solves. Tag what you pass
+> by its figure. Tell me which object repeated.
+
+## Prompt 3 — `metonimia` (§3.10) · frames 4, 8
+
+> **Search my mymind for `metonimia`** (Retórica de la pintura §3.10).
+>
+> I want images where a part, a label or an object stands for a whole institution or a whole
+> act: a sticker, stamp, tag or seal that changes what it sits on; an official form, a
+> signature line, a lanyard, a rubber stamp — the paperwork instead of the people; anything
+> that says "someone processed this". Bureaucracy shown by its things, with nobody in the
+> picture.
+>
+> Not portraits, not people at desks. No faces.
+>
+> Tag keepers `figure:metonimia` + `piece:asimetria-de-encuadre` — `figure:metonimia-propietario`
+> for the label kind, `figure:metonimia-soporte` for the document kind — one line each on
+> what it solves. Tag what you pass by its figure. Tell me which object repeated.
+
+## Prompt 4 — `hiperbole` (§3.18) · frames 1, 2, 6, 7
+
+> **Search my mymind for `hiperbole`** — two kinds only: silence and scale.
+>
+> Silence: a frame that is almost empty on purpose — a blank field, a black square, one small
+> thing in a lot of nothing — where the emptiness is an excess, not an unfinished design.
+> Scale: a quantity made visible by size or by repeated units — rows of identical figures,
+> tally marks, a small sharp chart inside a large soft field, hand-drawn bars where one is
+> minute beside the other.
+>
+> Not caricature, not dramatic exaggeration of a person. No faces, no victims.
+>
+> Tag keepers `figure:hiperbole-silencio` or `figure:hiperbole-escala` + `piece:asimetria-de-encuadre`,
+> one line each on what it solves. Tag what you pass by its figure. Tell me which object
+> repeated.
+
+## Prompt 5 — `ironia` (§3.16: antífrasis and autoironía) · frames 5, 7
+
+> **Search my mymind for `ironia`** — two kinds: antiphrasis and self-irony.
+>
+> Antiphrasis: a rule and its breach in one shot — a sign beside what it forbids, a manual
+> next to the thing done wrong, a promise and its evidence side by side, with no comment.
+> Self-irony: an image that corrects itself — handwriting over a printed page, proofreader's
+> marks, a note in the margin, a chart with a second panel that undoes the first, an author
+> annotating their own work.
+>
+> Not sarcasm, not memes, not jokes at someone else's expense.
+>
+> Tag keepers `figure:antifrasis` or `figure:autoironia` + `piece:asimetria-de-encuadre`, one
+> line each on what it solves. Tag what you pass by its figure. Tell me which object repeated.
+
+## Prompt 6 — `acumulacion` (§3.2) · frames 5, 9
+
+> **Search my mymind for `acumulacion`** (Retórica de la pintura §3.2).
+>
+> I want images where many things of one kind are gathered so that the quantity, not any
+> single item, is the message: a stack of paper whose height is a count; a wall of sheets; a
+> row of index cards; small panels in sequence carrying equal weight; catalogues of objects
+> laid out flat.
+>
+> Not clutter — the pile has to read as a count. No faces.
+>
+> Tag keepers `figure:acumulacion` + `piece:asimetria-de-encuadre`, one line each on what it
+> solves. Tag what you pass by its figure. Tell me which object repeated.
+
 ## The mymind queries (keyword fallback)
 
 Superseded by the prompts above for any figure that has one. Kept because they still work as

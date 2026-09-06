@@ -3,7 +3,7 @@
 **Piece:** media bias as a justification mechanism; Ukraine and Gaza as cases. The first
 piece run through the engine, by hand, to learn what the skills must do.
 
-**Figma sketch:** *storytelling-workbench*, section `5:2` "asimetria-de-encuadre — carrusel v1 (boceto)" — ten 1080×1350 frames, grey placeholders with the image described in words, captions, the tag as the only colour (2026-09-06).
+**Figma sketch:** *storytelling-workbench*, section `5:2` "asimetria-de-encuadre — carrusel v1 (boceto)" — ten 1080×1350 frames. Stepped back 2026-09-06: each frame now states **intención · contenido · figura** — what the slide must do, what it says (mapped to the article's sections), which figure to search — and no image description. The *how* waits for the sweep (`04-references.md`) and the brief (`05-brief.md`).
 
 **Hub:** samuel-garijo.com, directly (owned). **Spokes:** Medium (with canonical link back), LinkedIn (peers), ephemeral socials. **Templates:** Figma *storytelling-workbench*.
 
