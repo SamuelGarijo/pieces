@@ -18,7 +18,7 @@ piece run through the engine, by hand, to learn what the skills must do.
 | 5 Forge | **v1** 2026-09-06 — ten beats, captions drafted, three pacing checks (closure budget over: first calibration case) | `03-script.md` |
 | 6a Reference sweep | **sweep brief written** 2026-09-06; the sweep runs with Samuel (mymind + named leads) | `04-references.md` |
 | 6b Drawing brief | blocked on 6a | `05-brief.md` |
-| 7 Publish | blocked on hub page | `06-annotated.md` |
+| 7 Publish | **article draft v1** written 2026-09-06 (full argument, no images, teacher register); hub page still blocks publication | `06-annotated.md` |
 
 ## Sources mined (step 1)
 
