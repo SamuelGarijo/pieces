@@ -19,11 +19,11 @@ with a face — see story sentence below.
 
 | # | Fragment | redundancy | action | grounding | focus | surprise | verified | Record |
 |---|---|---|---|---|---|---|---|---|
-| F01 | The denominator — the ratio's trap | ● both sources | ○ | ● | ● | ● contradicts own headline | ✅ The Nation, primary | `F01-el-denominador.md` |
-| F02 | The sentence without a subject — passive voice | ● both | ● a verb form | ● | ● | ● | ⚠️ finding unsourced; the draft lists it as a *dimension to measure* | `F02-la-frase-sin-sujeto.md` |
-| F03 | The eleven-page form — the waiver | ○ | ● sign, escort, censor, publish | ● 11 pp. | ● | ● | ⚠️ *Journalism Research*; CNN/NBC admissions — verify | `F03-el-formulario.md` |
-| F04 | "Militant" in the style guide, "terrorist" on air | ○ | ● | ● 560/488 | ● | ● say/do inside the subject | ❌ "un estudio académico" — unnamed; **not usable until found** | `F04-la-guia-de-estilo.md` |
-| F05 | "Hamas-run" 915 times, "Knesset-run" never | ○ | ○ | ● | ● | ● one phrase | ⚠️ arXiv paper named — check it says this | `F05-la-etiqueta.md` |
+| F01 | The denominator — the ratio's trap | ● both sources | ○ | ● | ● | ● contradicts own headline | ✅ re-checked; figures are CNN+MSNBC combined | `F01-el-denominador.md` |
+| F02 | The sentence without a subject — passive voice | ● both | ● a verb form | ● | ● | ● | ◐ no paired active/passive study exists; NewsCord: BBC 77% passive for Palestinian deaths (one side only); CfMM "died" 50 v 7 | `F02-la-frase-sin-sujeto.md` |
+| F03 | The eleven-page form — the waiver | ○ | ● sign, escort, censor, publish | ● 11 pp. | ● | ● | ✅ primary form found — **8 pages, not 11**; review is of raw footage, not final story | `F03-el-formulario.md` |
+| F04 | "Militant" in the style guide, "terrorist" on air | ○ | ● | ● 560/488 | ● | ● say/do inside the subject | ✅ found (El Masry et al. 2025) — **BBC alone**; CNN is the reverse; counts include attributed uses | `F04-la-guia-de-estilo.md` |
+| F05 | "Hamas-run" 915 times, "Knesset-run" never | ○ | ○ | ● | ● | ● one phrase | ✅ arXiv 2510.06453 — but 915 (v3: 951) = all doubt phrases, not the one tag; CfMM: the tag in 1,155 articles vs 119 without | `F05-la-etiqueta.md` |
 | F06 | Eight years, fourteen thousand dead, and nobody knows — the Donbás hole | ● both | ○ | ● | ● hook only | ● | ✅ OHCHR figures | `F06-el-hueco.md` |
 | F07 | The archive as attention — the bridge that makes it his | ● draft §4.5, §7 | ○ | ○ | ● | ○ | n/a (voice) | in this file, below |
 | F08 | "No hay inocentes" — the justification quotes, Bandura | ○ summary only | ○ | ● | ◐ scope B or C? | ● | ⚠️ Law for Palestine DB, *Le Monde*; quotes are third-party | in this file, below |
@@ -126,6 +126,13 @@ Act II. (a) waits for F04. **Decision for Samuel** — see `../02-strategy.md`.
   (F10).**
 - Essay material has no protagonist; the story sentence had to be *supplied*, not found.
   The skill should emit candidates and stop, not pick.
-- The `verified:` field did real work: of eleven fragments, three are usable today, one
-  is blocked. A miner that doesn't carry verification status would hand the forge a piece
-  that fails the grounding check at step 7.
+- The `verified:` field did real work: of eleven fragments, three were usable before
+  verification, one was blocked. After the verification pass (2026-09-06, see
+  `verification-2026-09-06.md`): every checked figure in the AI summary was **off in a way
+  that matters** — 11 pages → 8; "BBC and CNN" 560/488 → BBC alone, CNN the reverse; "915
+  uses of Hamas-run" → 915/951 of all doubt phrases, the tag itself 1,155; "active vs
+  passive by side" → no such study, one side measured. The primary numbers are *stronger*
+  than the summary's in three of four cases, and the summary would have gotten the piece
+  called out on all four. **Rule for the skill: an AI synthesis is a lead list, never a
+  source; every figure re-anchored to its primary before it can enter a frame.** A miner
+  that doesn't carry verification status hands the forge a piece that fails at step 7.

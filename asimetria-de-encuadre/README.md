@@ -9,7 +9,7 @@ piece run through the engine, by hand, to learn what the skills must do.
 
 | Step | State | Where |
 |---|---|---|
-| 1 Archive extraction | **done** 2026-09-06 | `01-fragments/` |
+| 1 Archive extraction | **done** 2026-09-06; sources verified against primaries same day | `01-fragments/`, `01-fragments/verification-2026-09-06.md` |
 | 2 Strategy | drafted, 3 decisions pending | `02-strategy.md` |
 | 3 Message (mode, order) | — | `03-script.md` |
 | 4 Visual rhetoric | — | `03-script.md` |

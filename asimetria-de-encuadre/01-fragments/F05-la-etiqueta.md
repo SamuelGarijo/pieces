@@ -5,7 +5,7 @@ source: summary-2026-09-06.md §2 (Duda selectiva sobre las fuentes)
 original: arXiv, "Journalistic Biases in Reporting on Israel and Gaza" (as cited)
 mined: 2026-09-06
 juicy: 4/5 — grounding, focus, surprise (one two-word phrase carries the whole mechanism); no action; summary only
-verified: PARTIAL — the paper is named; check that it says 915 / 98% and the "Knesset-run" contrast, and whether the corpus is BBC only.
+verified: YES with a correction (2026-09-06). AlShebli, Salvador Casara & Maass, "Media Coverage of War Victims: Journalistic Biases in Reporting on Israel and Gaza", arXiv:2510.06453 (v1 7 Oct 2025; v3 25 Feb 2026). Corpus: 14,280 articles, 7 Oct 2023–7 Oct 2024 (NYT 5,829, AJE 3,850, CNN 2,543, BBC 2,058). Verbatim (v1/v2): BBC "915 CVN mentions, 98% of which target Palestinians" — **v3 says 951**. CNN 176, NYT 166, AJE 93. "Knesset-run" verbatim: analogous expressions for Israel "were absent". **Correction:** 915/951 counts ALL doubt-casting phrases (two classes: source-doubting like "Hamas-run", AND uncertainty words like "reportedly", "allegedly", "claims") — not the phrase "Hamas-run health ministry" alone. For the phrase itself: CfMM counts "Hamas-run health ministry" in **1,155 BBC online articles** vs "health ministry" without the qualifier in 119 (7 Oct 2023–7 Oct 2024). USE: the tag is real and countable (1,155 vs 119 is the cleaner number for a frame); cite the version if using 915/951.
 third-party: false
 ---
 

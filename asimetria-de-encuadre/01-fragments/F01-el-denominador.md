@@ -5,7 +5,7 @@ source: draft-2026-08-27.md §2; summary-2026-09-06.md §2 (Menciones por muerte
 original: 2026-08-27 (draft); The Nation, Johnson & Ali, Oct 2024 (primary)
 mined: 2026-09-06
 juicy: 5/5 — redundancy, grounding, focus, surprise (contradicts the piece's own headline); action low
-verified: yes — the draft checked The Nation directly and recovered the raw mentions a previous synthesis had dropped
+verified: YES (re-checked 2026-09-06 against the article) — Johnson & Ali, The Nation, 14 Oct 2024. 4,223 vs 3,632 are CNN+MSNBC COMBINED (CNN alone 2,446 vs 2,110; MSNBC 1,775 vs 1,522). Windows: Ukraine 25 Feb–3 Jun 2022; Gaza 7 Oct 2023–14 Jan 2024. 262 children / >10,000 children. Method: GDELT TV archive. Note: The Conversation (May 2026) misattributes the combined figure to CNN alone — don't copy that.
 third-party: false (the numbers are the study's; the framing is the author's)
 ---
 

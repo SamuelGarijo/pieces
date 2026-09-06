@@ -5,13 +5,13 @@ source: summary-2026-09-06.md §2 (Terminología)
 original: "un estudio académico" — unnamed in the summary
 mined: 2026-09-06
 juicy: 5/5 on content — action, grounding (560 vs 488), focus, surprise; and a say/do contradiction inside the subject
-verified: NO — the study is not named. **BLOCKED.** This fragment cannot enter a frame or a caption until the study is identified and the numbers confirmed against it. Kept because, if it holds, it is the piece's cleanest antífrasis.
+verified: YES, with a scope correction (2026-09-06). El Masry, Sawaf, King & Baroudi (Lebanese American University), "Gender hierarchies in reporting genocide: an analysis of the dehumanization of Palestinian men in Western media", Communication, Culture and Critique 18(4), Dec 2025, pp. 310–321, DOI 10.1093/ccc/tcaf032. Corpus: BBC 265 articles, CNN 4,441, 7 Oct–31 Dec 2023. Verbatim: "The BBC's frequent use of 'terrorist/s' (560 times), which is higher than that of 'militant/s' (488 times), despite its editorial stance on using 'militant/s'…". **Corrections:** (a) 560/488 is the BBC ALONE — CNN used "militant/s" 1,583 vs "terrorist/s" 1,242, i.e. the opposite; (b) the counts are all usages in article text including quoted/attributed ones, not uses "for Palestinian men" specifically; (c) BBC guidance is that "terrorist" be used only with attribution — the "editorial stance" wording is the paper's gloss. UNBLOCKED for the BBC, with the attribution caveat stated.
 third-party: false
 ---
 
 ## Story sentence
-A newsroom in London needs help counting the dead, because its style guide says
-"militant" and its output says "terrorist".
+A newsroom in London needs help counting the dead, because its guidance says
+"militant" (or "terrorist" only with attribution) and its pages say "terrorist" 560 times.
 
 ## Raw fragment (verbatim, summary §2)
 > Un estudio académico encontró que BBC y CNN usaron la palabra "terrorista" para hombres
