@@ -6,6 +6,12 @@ figure per frame; a figure is a rule of meaning, not a picture. This file turns 
 into a *visual problem* and says where to go looking for solutions — inside mymind first,
 then by name outside it.
 
+**The mymind queries live in one place: [§ Queries](#the-mymind-queries-fire-these) at the end
+of this file.** The `mymind:` line inside each frame below names *objects* (a shelf, a form) —
+those are the engine's first guesses at a form, and guessing the object is exactly what the
+sweep is supposed to avoid. Search the **device**, not the object: not "shelves" but "two
+things compared side by side, one full and one empty". The object is what the sweep decides.
+
 **What to bring back:** 3–5 references per frame, saved to mymind with a note saying *what
 it solves* (not what it is). One line is enough: "Becher — same frame repeated, difference
 is the only content."
@@ -274,6 +280,129 @@ unlabelled, and it becomes the reader's. Bring references anyway for the alterna
 sweep produces something that changes the mind, it changes before the brief, not after.
 
 ---
+
+## The mymind queries (fire these)
+
+English, one at a time, through the mymind MCP. They describe the **rhetorical device**, not
+an object and not a style: no "newsprint", no "risograph", no "collage" — style is decided in
+§0 by looking, not by searching. Groups map to frames; a group used by several frames is
+searched once.
+
+### A · Two things opposed — `antitesis` (frames 1, 3, 4, 5, 6, 7)
+
+```
+two things side by side compared
+same object photographed twice with one difference
+pair of opposites
+one full and one empty
+repetition where one element is different
+unequal halves
+diptych
+broken symmetry
+two columns compared
+scale weighing two things
+```
+
+### B · What is missing — `elipsis`, the `hole` (frames 1, 2, 3, 10)
+
+```
+missing piece
+empty space where something used to be
+gap in a series
+incomplete set
+outline of an absent object
+removed element
+hole
+object with no background
+```
+
+### C · Language with a hole in it (frame 3)
+
+```
+crossed out text
+erased words
+redacted document
+censored text
+blank in a sentence
+fill in the blank
+statement with no author
+headline
+```
+
+### D · A label that changes its object — `metonimia-propietario` (frame 4)
+
+```
+label attached to an object
+sticker on something
+stamp on a document
+tag hanging from an object
+warning label
+marked as classified
+naming a thing
+```
+
+### E · Rule against practice, and paper as mass (frames 5, 8)
+
+```
+stack of papers
+pile of documents
+printed page repeated many times
+official form
+signature and stamp
+paper archive
+newspaper clippings
+page of instructions
+bureaucracy
+documents laid out flat
+```
+
+### F · Quantity made visible (frames 6, 7)
+
+```
+hand drawn chart
+bars comparing quantities
+tally marks counting
+numbers as an image
+quantity shown as repeated units
+proportion between two amounts
+statistics illustrated
+```
+
+### G · Something correcting itself (frame 7)
+
+```
+handwriting over a printed page
+correction marks
+note in the margin
+crossed out and rewritten
+annotated image
+```
+
+### H · Three small things in a row (frame 9)
+
+```
+three items in a row
+set of cards
+index cards
+small panels in sequence
+catalogue of objects
+```
+
+### I · The image withheld (frame 8, and the piece's ethics)
+
+```
+covered object
+wrapped object
+closed box
+photograph face down
+something hidden behind a surface
+veiled
+```
+
+**How to run it:** one query at a time; keep what answers the *device*, discard what merely
+matches the words. Save each keeper with the figure tag (`figure:antitesis`,
+`figure:elipsis-iconica`, `figure:metonimia-propietario`…) and a one-line note on what it
+solves.
 
 ## Output of this step
 
