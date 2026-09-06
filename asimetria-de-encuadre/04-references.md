@@ -281,7 +281,84 @@ sweep produces something that changes the mind, it changes before the brief, not
 
 ---
 
-## The mymind queries (fire these)
+## Prompt 1 — `antitesis` (§3.19) · frames 1, 3, 4, 5, 6, 7
+
+Method: `content-creation-engine/references/mymind-prompt-pack.md`. Fire this at Claude with
+the mymind account — it is written for a reader who can look, not for a matcher. The figure
+name is both the search and the tag.
+
+**Why this shape.** A first sweep with a keyword list ("two things side by side compared")
+came back full of stereoscopic pairs and mirrored copies — two *identical* images, which is
+`repeticion`, not antithesis. The border between the two figures is the whole search, and only
+prose can state it.
+
+---
+
+> **Figure: `antitesis` — Carrere & Saborit, *Retórica de la pintura* §3.19. This is also the
+> tag.**
+>
+> Go through my mymind and judge what you find yourself — I want your reading, not a keyword
+> match.
+>
+> **What antithesis is.** Two opposed terms held apart, both visible at once, sharing one
+> plane: same composition, same ground, same frame, so that the only thing that differs is
+> what the two terms *mean*. The canonical case is the Basel diptych of 1487 — a young noble
+> on one panel, a rotting skeleton on the other, identical pose, identical red ground. Or
+> Munch's *Mason and Mechanic*: two full-length workers, symmetric, one in plaster-white, one
+> in grease-black. The repetition is the syntax; the opposition is the message. If the two
+> halves aren't built the same way, there is no antithesis — just two pictures.
+>
+> **The border, which is the important part.** Two *identical* things are not an antithesis —
+> that is `repeticion`. Two things merely *alike* are not either — that is `simil`. Two
+> things *fused* into one body are not — that is `paradoja`. Antithesis keeps both terms
+> separate and opposed, on a ground that repeats.
+>
+> **What I need it for.** The essay opens on a comparison of news coverage: 4,223 on-air
+> mentions of dead children in one war and 3,632 in another — nearly the same number — set
+> against 262 dead children on one side and more than ten thousand on the other. So the
+> opening image has to say *same kind of container, wildly unequal content*: the difference
+> is not of nature, it is of quantity. And one of the two sides has to look conspicuously,
+> uncomfortably empty. That emptiness is a second figure doing its own work
+> (`hiperbole-silencio`, §3.18 — emptiness as an excess, not as an unfinished design).
+>
+> **Situations where this shows up — look for things like:**
+> - two objects of the same kind side by side, one full and one nearly empty
+> - a measuring instrument holding two unequal loads: scales, balances, gauges, levels
+> - a repeated grid, series or typology where one cell is bare or missing
+> - the same document, page or label twice, one carrying far more than the other
+> - before/after or then/now pairs where the second state is a subtraction
+> - two words, two colours or two typographic blocks set as opposites in one composition
+>
+> **Don't bring me:** identical or mirrored pairs (that is `repeticion`); single dramatic
+> images, however good; faces; and no photographs of victims of any war — this essay's rule
+> is that it never illustrates itself with the people it is about.
+>
+> **For each keeper, one line on what it *solves*, not what it depicts.** "The scale: the
+> comparison is the instrument, and the instrument is visible" is useful to me. "A vintage
+> weighing scale" is not.
+>
+> **Tag every keeper `figure:antitesis`**, plus `piece:asimetria-de-encuadre` and the frame it
+> could serve (`frame:01`, `frame:04`…). If it works because the two halves share one
+> composition, add `figure:paralelismo` — that is the syntax underneath.
+>
+> **By-catch — tag what you scroll past, it costs nothing and the archive keeps it:**
+> `figure:repeticion` (identical or mirrored doubles) · `figure:paralelismo` (same element
+> repeated with one variable changed — the same word in two typefaces) ·
+> `figure:hiperbole-silencio` (a near-empty frame, a blank or black field) · `figure:elipsis`
+> (something with a piece cut out, blanked or erased) · `figure:metonimia` (a label, tag,
+> stamp or sticker that renames what it sits on).
+>
+> **Last, and this is the one I can't do myself: tell me what repeated.** If the same object
+> turns up across several hits — a scale, a shelf, a ledger, a form — say so. An object that
+> keeps appearing in my own archive is the strongest candidate for this piece's running
+> symbol, and I can't see it from inside.
+
+---
+
+## The mymind queries (keyword fallback)
+
+Superseded by the prompts above for any figure that has one. Kept because they still work as
+a blunt second pass when a natural-language sweep returns too little.
 
 English, one at a time, through the mymind MCP. They describe the **rhetorical device**, not
 an object and not a style: no "newsprint", no "risograph", no "collage" — style is decided in
