@@ -16,8 +16,9 @@ piece run through the engine, by hand, to learn what the skills must do.
 | 3 Message (mode, order) | **v1** 2026-09-06 | `03-script.md` |
 | 4 Visual rhetoric | **v1** 2026-09-06 — roles, transitions, figures, the tag as the only colour | `03-script.md` |
 | 5 Forge | **v1** 2026-09-06 — ten beats, captions drafted, three pacing checks (closure budget over: first calibration case) | `03-script.md` |
-| 6 Brief + references | — | `04-brief.md` |
-| 7 Publish | blocked on hub page | `05-annotated.md` |
+| 6a Reference sweep | **sweep brief written** 2026-09-06; the sweep runs with Samuel (mymind + named leads) | `04-references.md` |
+| 6b Drawing brief | blocked on 6a | `05-brief.md` |
+| 7 Publish | blocked on hub page | `06-annotated.md` |
 
 ## Sources mined (step 1)
 

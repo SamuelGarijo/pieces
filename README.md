@@ -13,8 +13,10 @@ Each piece is a folder that follows the pipeline's seven steps:
   01-fragments/      step 1 — fragment records, scoring, story sentence, spec
   02-strategy.md     step 2 + 7 — the checklist answered
   03-script.md       steps 3–5 — the forged script (the fields, per beat)
-  04-brief.md        step 6 — the illustration brief for Samuel
-  05-annotated.md    the owned version: piece + sources + open doors (the hub copy)
+  04-references.md   step 6a — the sweep brief: per frame, the visual problem, the mymind
+                     queries, the named leads outside it. Runs BEFORE the drawing brief.
+  05-brief.md        step 6b — the illustration brief, written from the script plus the sweep
+  06-annotated.md    the owned version: piece + sources + open doors (the hub copy)
 ```
 
 Language: method files in English (the engine's convention); the piece's own text, its
@@ -27,4 +29,4 @@ version in this repo is the source of the site page. Templates: Figma file *stor
 
 | Piece | Status | Started |
 |---|---|---|
-| [asimetria-de-encuadre](asimetria-de-encuadre/) | steps 1–5 v1; step 6 (the brief) next | 2026-09-06 |
+| [asimetria-de-encuadre](asimetria-de-encuadre/) | steps 1–5 v1; step 6a (reference sweep) with Samuel | 2026-09-06 |
