@@ -58,3 +58,21 @@ Sources: acleddata.com/update/sudan-situation-update-july-2023-saf-faces-setback
 acleddata.com/methodology/how-interpret-acleds-fatality-records-sudan ·
 aljazeera.com/news/2023/7/24/100-days-of-conflict-in-sudan-a-timeline ·
 thenation.com/article/society/cnn-msnbc-gaza-media-bias-study/ · github.com/nationmag/Gaza-Media-Bias
+
+## Shared-window mentions, all three wars at once (run 2026-09-24)
+
+Same query, same stations, ONE window for all three: 7 Oct 2023 → 23 Sep 2026.
+
+| | CNN | MSNBC | Total |
+|---|---:|---:|---:|
+| Ukraine | 2,756 | 1,897 | **4,653** |
+| Gaza | 11,606 | 11,120 | **22,726** |
+| Sudan (loose, incl. bare "sudanese") | 44 | 37 | **≤ 81** |
+| Sudan (strict) | 6 | 20 | 26 |
+
+Per 1,000 *documented* deaths (Ukraine civilians 16,874; Gaza 73,910; Sudan ≥58,000):
+Ukraine 276 · Gaza 307 · Sudan ≤ 1.4. Sudan is mentioned roughly 200× less per death than
+either of the other two — on the most generous query.
+
+Caveat: this is US cable only (CNN + MSNBC). A worldwide online-news count (GDELT DOC API)
+was attempted and rate-limited; retry pending.
