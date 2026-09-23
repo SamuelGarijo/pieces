@@ -55,3 +55,24 @@ attention follows **resemblance and alignment**.
 | Sudan | — | — | PENDING |
 
 To verify before publishing, if added: CPJ's count of journalists killed in Gaza.
+
+## Frame 2 (v2) — PRIMARY-VERIFIED 2026-09-24 against the thesis PDF
+
+«Synliga konflikter: en kvantitativ innehållsanalys av svensk utrikesrapportering om
+Ukraina, Gaza och Sudan», kandidatuppsats i journalistik, JMG, University of Gothenburg,
+2026-01-09 (gupea.ub.gu.se, bitstream 05eb551a-…). Checked:
+- 333 articles total; Gaza 183 (55 %), Ukraine 145 (43.5 %), Sudan 5 (1.5 %) — abstract.
+- Four web papers: Aftonbladet, Expressen, DN, SvD (most unique visitors, Expandtalk 2024).
+- Search terms "Ukraina", "Gaza", "Sudan" in headline or lead, run separately; "Ryssland",
+  "Israel", "Palestina" deliberately excluded; Retriever category "krig och konflikt".
+- News, briefs, reportage only — no opinion/debate, no video, no live blogs.
+- Constructed month (§7.3): 31 dates, five or more per month, 1 Apr–30 Sep 2025, drawn with
+  Google's random number generator, weekdays varied to avoid periodicity (Riffe, Aust & Lacy
+  1993). Window ends 30 Sep because of the Gaza ceasefire in early October. Dates listed in
+  the thesis: Apr 2,5,14,20,25 · May 12,16,18,28,31 · Jun 9,10,17,22,27 · Jul 2,7,11,20,26 ·
+  Aug 3,13,18,23,26 · Sep 2,6,15,18,24,28.
+- Coded manually by three coders after a ten-article test coding.
+- §10.1: Sudan's absence "is in itself an empirical finding" ("i sig ett empiriskt fynd").
+
+Caveat worth keeping: excluding "Israel"/"Palestina" and "Ryssland" likely undercounts Gaza
+and Ukraine — so the gap to Sudan is, if anything, understated.
