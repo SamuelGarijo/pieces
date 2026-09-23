@@ -67,3 +67,20 @@ v2 splits "coverage" into **volume** (The Nation, verified) and **independent ac
 (IDF commitment letter, verified; the level is qualitative). No economic axis, no
 conclusion: the frame ends on the concrete fact. The 8-pages figure was already spent in
 post 001 (published log) — here it appears alone, not in the trio.
+
+## v2 of the sequence (2026-09-23, Figma section `44:3` "v2") — four frames
+
+Built on the Perplexity pass (`00-sources/perplexity-2026-09-23.md`). v1 kept in the
+page's loose frames for comparison.
+
+| # | Role | Beat | Data | Status |
+|---|---|---|---|---|
+| 1 | threshold | civilians vs mentions, two wars, first 100 days | Ukraine ≈4,000 / 29,534 · Gaza >24,000 / 15,062 (The Nation; 9.8× with the study's 20,000 denominator) | secondary-verified via The Nation; the ≥44× children pair stays held back for the asimetria piece |
+| 2 | link (new) | three wars, same 31 days, same four papers | Ukraine 145 · Gaza 183 · Sudan 5, of 333 (Gothenburg thesis, Apr–Sep 2025) | the only all-three count; Sudan too few for the study's own stats |
+| 3 | inset | the scale they wrote themselves | five quotes, corrected wording and speakers (D'Agata, Hannan, Dobbie, Watson, Corbé); CBS 25/26 Feb discrepancy kept | wording verified by Perplexity against secondary reports; ITV date not recovered |
+| 4 | terminal | journalists: same mentions, ten times the deaths | 196 mentions / 8 killed vs 198 / 77 (The Nation) | replaces the qualitative "access" bar; 8 pages moved to the footnote |
+
+Dropped from v1: Sudan's dashed bars in frame 1 (the study didn't include it — a dashed bar
+implied a choice where there was no study); the economic axis; the closing aphorism.
+Samuel also rejected the proposed meta opening ("Quise hacer una gráfica… No existe") —
+a line about the method, performed in his voice, is not his voice.

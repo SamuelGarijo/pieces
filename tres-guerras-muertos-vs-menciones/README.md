@@ -14,12 +14,11 @@ every unverified number is labelled on the slide itself).
 |---|---|---|
 | 1 Archive extraction | **skipped** — no draft of Samuel's to mine; the sources are the asimetria fragments + a research pass to run | `00-sources/` |
 | 2 Strategy | inherited from asimetria (hub, receptors, stand) | `../asimetria-de-encuadre/02-strategy.md` |
-| 3–5 Script | **draft v1** 2026-09-23 | `03-script.md` |
-| 6 Illustrate | charts ARE the images (draft in Figma); typography/plastic norm to finish after data | Figma `35:2` |
+| 3–5 Script | **v2** 2026-09-23 — four frames on the Perplexity pass | `03-script.md` |
+| 6 Illustrate | charts ARE the images — v2 built in Figma section `44:3`; v1 kept loose on the page | Figma `35:2` / `44:3` |
 | 7 Publish | blocked on the research pass and on the hub | — |
 
 ## Next
-1. Run `00-sources/perplexity-prompt-2026-09-23.md` in Perplexity; paste the answer back
-   as `00-sources/perplexity-<date>.md`.
-2. Replace every UNVERIFIED / PENDING number in Figma; drop the "BORRADOR" footnotes.
-3. Decide whether frame 1 spends the 45× pair or waits for the asimetria piece.
+1. Check the four primaries Perplexity names (The Nation dataset, the Gothenburg thesis PDF, AMEJA statement, the CBS/AJ reports) before publishing — the numbers are secondary-verified, not primary-verified.
+2. Captions (≤3 lines) for the four frames; first comment with sources.
+3. Publish as a spoke once the hub exists; log it in the Organizer's Published log.
