@@ -35,7 +35,7 @@ back for the asimetria piece's rupture frame. Using it here spends it — Samuel
 - Al Jazeera English, 27 Feb 2022 — "prosperous, middle-class people… not obviously refugees".
 - AMEJA statement, 27 Feb 2022, condemning the pattern.
 
-## Slide 3 — economic exposure of Europe vs coverage (hypothesis, qualitative)
+## Slide 3 v1 — DROPPED 2026-09-23 (see 03-script.md): economic exposure vs coverage
 
 | Conflict | EU economic exposure | Coverage | Reads as |
 |---|---|---|---|
@@ -45,3 +45,13 @@ back for the asimetria piece's rupture frame. Using it here spends it — Samuel
 
 Gaza breaks the economic explanation. What is left, per the asimetria strategy notes:
 attention follows **resemblance and alignment**.
+
+## Slide 3 v2 — volume vs independent access
+
+| Conflict | Mentions, first 100 days (CNN+MSNBC) | Foreign-press access | Status |
+|---|---|---|---|
+| Ukraine | 4,223 | independent | VERIFIED (mentions); access qualitative |
+| Gaza | 3,632 | escort-only, raw material to the Military Censor | VERIFIED — The Nation; IDF letter 28 Oct 2023 (F03) |
+| Sudan | — | — | PENDING |
+
+To verify before publishing, if added: CPJ's count of journalists killed in Gaza.

@@ -27,7 +27,7 @@ verified; everything else is a placeholder until the Perplexity pass.
 |---|---|---|---|---|---|---|---|---|
 | 1 | threshold | I | the count: deaths left, mentions right, three wars | stasis-qual | kernel | narration-covert | `antitesis` (two bars per group), `hiperbole-escala` (a bar you can't see vs one you can't miss), `elipsis` (Sudan's outlined bars) | `coverage-red` establecimiento · `hole` establecimiento |
 | 2 | inset / beat | II | the scale nobody wrote: "how much they look like us", with the February 2022 quotes as the evidence | stasis-ident | satellite | narration-overt (the one place the voice judges — and judges itself: *"Yo también hice scroll más despacio"*) | `ironia` (mark: text), `autoironia`, `metonimia` (a quote stands for a newsroom) | `coverage-red` lexicalización |
-| 3 | terminal | III/IV | the easy explanation, discarded: economy vs coverage; Gaza breaks it; what remains | stasis-qual | kernel | narration-covert → one overt line | `antitesis` (economy bar vs coverage bar), `repeticion-variacion` (frame 1's two-bar composition, rotated) | `hole` quiebra (Sudan: nothing, and silence) |
+| 3 | terminal | III | volume vs access: Gaza is covered a lot, from outside; Sudan unknown on both | stasis-qual | kernel | narration-covert (no overt line, no conclusion) | `antitesis` (full volume bar vs empty access bar), `repeticion-variacion` (frame 1's two-bar composition, rotated) | `hole` quiebra (Sudan: dashed on both axes) |
 
 Direction: left-to-right. Frame 3 reuses frame 1's two-bar composition turned horizontal —
 the terminal rhymes with the threshold.
@@ -38,8 +38,8 @@ the terminal rhymes with the threshold.
    CNN y MSNBC los nombraron. Sudán no tiene barra porque nadie la ha contado.
 2. Nadie publicó este baremo. Lo dijeron en antena. Yo también hice scroll más despacio
    en febrero de 2022.
-3. La explicación fácil es el dinero. Gaza la rompe: poco impacto, mucha cobertura. Lo
-   que queda es a quién nos parecemos y con quién vamos.
+3. Mucho volumen. Nadie dentro. Para entrar en Gaza, un periodista extranjero firmaba
+   ocho páginas; el material en bruto pasaba por el censor militar.
 
 ## Frame 2 — the risk, stated
 
@@ -54,3 +54,16 @@ and dates before publishing — see `00-sources`.
 Frame 1 uses The Nation's pair (262 / 4,223 vs >10,000 / 3,632, the 45×) — the figure
 `published-log` holds back for the asimetria piece's rupture. Decision for Samuel: spend
 it here as the spoke, or swap frame 1 to the totals once the research lands.
+
+## v2 of frame 3 (2026-09-23) — why the economic axis went
+
+Samuel's objection: Gaza does not "have a lot of coverage" — the complaint is journalists
+barred, journalists killed, no independent access. The v1 bar (Gaza coverage ≈ 90 %) was
+invented to make the economic argument work, and it contradicted the asimetria thesis:
+the problem is **how and from where**, not how much. v1's closing line ("es a quién nos
+parecemos") was forced and broke his recorded rule (he cuts the concluding aphorism).
+
+v2 splits "coverage" into **volume** (The Nation, verified) and **independent access**
+(IDF commitment letter, verified; the level is qualitative). No economic axis, no
+conclusion: the frame ends on the concrete fact. The 8-pages figure was already spent in
+post 001 (published log) — here it appears alone, not in the trio.
