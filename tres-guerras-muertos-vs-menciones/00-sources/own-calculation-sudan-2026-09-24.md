@@ -76,3 +76,22 @@ either of the other two — on the most generous query.
 
 Caveat: this is US cable only (CNN + MSNBC). A worldwide online-news count (GDELT DOC API)
 was attempted and rate-limited; retry pending.
+
+## Each war from its own start (run 2026-09-24) — the version on the v4 slide
+
+Samuel's question: isn't Ukraine the most broadcast war? Over its lifetime, yes. The
+shared window (from 7 Oct 2023) started in Ukraine's fatigue phase and Gaza's peak, and
+inflated Gaza relative to Ukraine. The slide now counts each war from its own start.
+
+| CNN + MSNBC, same query | Window | Total | Per 1,000 documented deaths |
+|---|---|---:|---:|
+| Ukraine | 24 Feb 2022 → 23 Sep 2026 (49,442 before 7 Oct 2023 + 4,653 after) | **54,095** | 3,206 (16,874 civilians) |
+| Gaza | 7 Oct 2023 → 23 Sep 2026 | **22,726** | 307 (73,910 all) |
+| Sudan (loose) | 15 Apr 2023 → 23 Sep 2026 | **≤ 678** (CNN 568, MSNBC 110) | ≤ 11.7 (≥ 58,000 all) |
+| Sudan (strict) | same | 162 (CNN 122, MSNBC 40) | 2.8 |
+
+Reading: Ukraine 2.4× Gaza in raw volume, ~10× per death. Sudan ≤ 1/80 of Ukraine's volume,
+≥ 270× fewer mentions per death. Gaza's US-cable lead after Oct 2023 is plausibly a US
+domestic-politics effect (arms, campus protests, 2024 election); the Gaza query also
+counts "palestinians" in political mentions. Worldwide online-news counts (GDELT DOC)
+still rate-limited — not attempted again.
